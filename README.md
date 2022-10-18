@@ -1,19 +1,3 @@
-# SEN12MS-CR-TS Toolbox 
-
-![banner gif](preview/single_banner.png)
->
-> _On average, the majority of all optical satellite data is affected by clouds. This observation shows a scene of agricultural land cover in Czechia from the SEN12MS-CR-TS data set for multi-modal multi-temporal cloud removal. SEN12MS-CR-TS contains whole-year time series of radar and optical satellite data distributed globally across our planet's surface._
-----
-This repository contains code accompanying the paper
-> Ebel, P., Xu, Y., & Schmitt, M. , & Zhu, X. X. (2022). SEN12MS-CR-TS: A Remote Sensing Data Set for Multi-modal Multi-temporal Cloud Removal. IEEE Transactions on Geoscience and Remote Sensing, In Press.
-
-It serves as a quick start for working with the associated SEN12MS-CR-TS data set. For additional information:
-
-* The open-access publication is available at [the IEEE TGRS page](https://ieeexplore.ieee.org/document/9691348). 
-* The open-access SEN12MS-CR data set is available at the MediaTUM page [here](https://mediatum.ub.tum.de/1639953) (train split) and [here](https://mediatum.ub.tum.de/1659251) (test split).
-* You can find additional information on this and related projects on the associated [project page](https://patricktum.github.io/cloud_removal/).
-* For any further questions, please reach out to me here or via the credentials on my [website](https://pwjebel.com).
----
 
 ## Installation
 ### Dataset
